@@ -163,5 +163,4 @@ def main():
     class_topper()
 
 
-if __name__ == "__main__":
-    main()
+
